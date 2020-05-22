@@ -1,0 +1,4 @@
+https://www.oreilly.com/library/view/high-performance-spark/9781491943199/ch04.html
+http://www.learnbymarketing.com/1100/pyspark-joins-by-example/
+http://kirillpavlov.com/blog/2016/04/23/beyond-traditional-join-with-apache-spark/
+https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-joins-broadcast.html
